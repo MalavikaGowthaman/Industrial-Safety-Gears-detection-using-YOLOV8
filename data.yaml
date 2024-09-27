@@ -1,0 +1,5 @@
+train: /content/drive/MyDrive/Helmet_detection/data/data/train/images
+val: /content/drive/MyDrive/Helmet_detection/data/data/valid/images
+
+nc: 5
+names: ['Helmet', 'Goggles', 'Jacket', 'Gloves', 'Footwear']
